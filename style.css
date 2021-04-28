@@ -98,7 +98,6 @@ a{
     color: white;
     background-color:#C4A484;
     border-radius: 20px;
-    box-shadow: 5px 10px 30px rgba(24, 139, 119, 0.2);
 }
 .resume-btn:hover{
     background-color: #b5651d;

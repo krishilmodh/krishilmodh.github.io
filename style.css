@@ -96,11 +96,11 @@ a{
     justify-content: center;
     align-items: center;
     color: white;
-    background-color:#C4A484;
+    background-color:#b5651d;
     border-radius: 20px;
 }
 .resume-btn:hover{
-    background-color: #b5651d;
+    background-color:#C4A484  ;
     transition: all ease 0.2s;
 }
 
